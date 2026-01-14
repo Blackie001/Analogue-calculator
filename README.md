@@ -63,10 +63,27 @@ This project was built to:
 ---
 
 🌱 Future Improvements
+
 Planned upgrades include:
 Memory functions (M+, M-, MR)
 Keyboard support
 Scientific mode
 History of calculations
 
-  
+---
+
+📸 Preview
+
+
+---
+
+📄 License
+
+This project is open-source and free to use for learning, modification, and personal projects.
+
+---
+
+❤️ Author
+
+Created with passion by Blackie001 Coodes
+Feel free to star, contribute, fork, or improve it.
