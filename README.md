@@ -1,4 +1,9 @@
-🧮 Analogue Calculator
+🧮 Analogue Calculator # 🧮 Analogue Calculator  
+
+![GitHub repo size](...)
+![GitHub stars](...)
+...
+
 
 A clean, interactive web-based Analogue Calculator built using HTML, CSS, and JavaScript.
 It allows users to perform basic arithmetic operations in a smooth, visually intuitive way, inspired by classic analogue calculator designs.
@@ -31,24 +36,31 @@ All arithmetic is handled safely to avoid invalid inputs like multiple operators
 
 🛠️ Technologies Used
 
-- HTML5 – Structure of the calculator
-- CSS3 – Styling and layout (analogue look & feel)
-- JavaScript (ES6) – Logic, events, and calculations
+- HTML5 – Structure of the calculator  ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge)
+- CSS3 – Styling and layout (analogue look & feel)  ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge)
+- JavaScript (ES6) – Logic, events, and calculations   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)
 
 ---
 
 📦 Installation & Usage
 
 You don’t need to install anything.
+
 Clone the repository:
 git clone https://github.com/Blackie001/analogue-calculator.git
 
+To preview this project copy and paste this link in a new tab
+https://github.com/Blackie001/Analogue-calculator/
 
-- Open the folder:
+OR
+
+- Open the folder terminal then run:
  cd analogue-calculator
 
+OR
+
 - Run the app:
-  Simply open index.html in your browser.
+  Download all the files in this repository then Simply open index.html in your browser.
 
 
 ---
