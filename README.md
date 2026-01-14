@@ -65,15 +65,18 @@ This project was built to:
 🌱 Future Improvements
 
 Planned upgrades include:
-Memory functions (M+, M-, MR)
-Keyboard support
-Scientific mode
-History of calculations
+- Memory functions (M+, M-, MR)
+- Onscreen Keyboard support
+- Scientific mode
+- History of calculations
 
 ---
 
 📸 Preview
 
+<img width="789" height="412" alt="image" src="https://github.com/user-attachments/assets/6219665f-5951-45e8-aa91-146a05b2d4b9" />
+<img width="810" height="389" alt="image" src="https://github.com/user-attachments/assets/fdc44f4f-629e-4c3e-a0f0-7c2b3df1a9d9" />
+<img width="810" height="435" alt="image" src="https://github.com/user-attachments/assets/4ba28056-dd37-4d29-abba-9d66bbad3a41" />
 
 ---
 
