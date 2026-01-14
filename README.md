@@ -49,3 +49,24 @@ git clone https://github.com/Blackie001/analogue-calculator.git
 
 - Run the app:
   Simply open index.html in your browser.
+
+
+---
+
+🎯 Why This Project Exists
+This project was built to:
+- Practice JavaScript logic
+- Improve UI design skills
+- Learn how calculators handle inputs and operators
+- Create a simple but professional web app
+
+---
+
+🌱 Future Improvements
+Planned upgrades include:
+Memory functions (M+, M-, MR)
+Keyboard support
+Scientific mode
+History of calculations
+
+  
